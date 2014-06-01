@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+PixMap - Collection of tools for Images written with Shell Script.
+------------------------------------------------------------------------------
+
+Usage:
+
+      ./pixmap.sh [command] [options]
+
+Commands:
+
+      convert [input] [output]            - Convert images format
+      datauri [file name]                 - Create a data URI from a file
+      sprite [output] [name] [extension]  - Generate a Sprite Map
+      optimize [path] [extension]         - Optimize a bunch of image files
+
+Options:
+
+      -h, --help          Display help information about PixMap
+      -V, --version       Display Pixmap version number
+
+------------------------------------------------------------------------------
+See the documentation for more information.
+Documentation can be found at https://github.com/vitorbritto/pixmap/
+
+Copyright (c) Vitor Britto. - Licensed under the MIT license.
+------------------------------------------------------------------------------
