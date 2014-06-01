@@ -80,5 +80,3 @@ Hope you enjoy! :)
     # 2. Select "Convert" option
 
     # 3. Input the name of file
-
-> Important: all scripts can be executed in stand alone mode. Just place it in your system path, make it executable and run it. Remember, it's up to you do this. I suppose you know what you are doing when performing this procedure.
